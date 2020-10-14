@@ -4,6 +4,7 @@ win/_ReSharper.h264bsd/
 win/ipch/
 win/*.sdf
 win/*.VC.db
+.vs
 *.user
 *.o
 node_modules
